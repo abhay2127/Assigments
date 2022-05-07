@@ -1,5 +1,4 @@
-# git hum
-## this is first
+# git hub
 <p>
  we took github
  </p> 
